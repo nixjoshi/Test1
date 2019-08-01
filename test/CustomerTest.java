@@ -37,7 +37,7 @@ class CustomerTest {
         String expected="Rental Record for uncle pancho\n" +
                 "\tRambo First Blood\t9.5\n" +
                 "Amount owed is 9.5\n" +
-                "You earned 1 frequent renter points test commit";
+                "You earned 1 frequent renter points";
         assertEquals(actual,expected);
 
     }
